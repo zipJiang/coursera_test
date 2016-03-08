@@ -1,0 +1,13 @@
+header ul > li {
+	background-color: #000022;
+}
+header ul > li > a > p {
+	color: #fff;
+}
+header ul.nav.navbar-nav {
+	margin-top: 0px;
+}
+#my-contents {
+	background-color: #00ffff;
+	height: 1000px;
+}
