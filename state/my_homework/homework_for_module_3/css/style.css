@@ -3,6 +3,7 @@ header ul > li {
 }
 header ul > li > a > p {
 	color: #fff;
+	text-align: center;
 }
 header ul.nav.navbar-nav {
 	margin-top: 0px;
